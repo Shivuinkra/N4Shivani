@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Computrs and Business System<br></p>
+<p align="left">✨ <br>📚 I'm currently learning Computrs and Business System<br></p>
 
 ###
 
